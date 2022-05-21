@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Challenge Normal"
+title                    : "ChallengeNormal"
 title_separator          : "|"
 subtitle                 : "small positive action"
 name                     : "ljh5973"
